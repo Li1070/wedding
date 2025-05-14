@@ -78,7 +78,7 @@
 <body>
   <header>
     <h1>Елизавета & Вадим</h1>
-    <p>Мы женимся! 20 июля 2025 года</p>
+    <p>Мы женимся! 08 августа 2025 года</p>
   </header>
 
   <section>
@@ -89,16 +89,16 @@
   <section>
     <h2>Программа</h2>
     <ul>
-      <li>15:00 — Сбор гостей</li>
-      <li>16:00 — Церемония</li>
-      <li>17:30 — Ужин и праздник</li>
+      <li>17:30 — Сбор гостей</li>
+      <li>18:00 — Церемония</li>
+      <li>18:30 — Ужин и праздник</li>
     </ul>
   </section>
 
   <section class="map">
     <h2>Место</h2>
     <p>Алма-Ата, озеро Большое Алматинское</p>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!..." allowfullscreen></iframe>
+    <iframe src=..." allowfullscreen></iframe>
   </section>
 
   <section>
