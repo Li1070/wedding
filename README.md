@@ -98,7 +98,6 @@
   <section class="map">
     <h2>Место</h2>
     <p>Алма-Ата, озеро Большое Алматинское</p>
-    <iframe src=..." allowfullscreen></iframe>
   </section>
 
   <section>
