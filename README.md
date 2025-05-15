@@ -1,5 +1,4 @@
-![top jpg](https://github.com/user-attachments/assets/ca79df06-9820-49e9-aac3-68a24ad4cb25)# НАША СВАДЬБА
-Пригласительные
+![top jpg](https://github.com/user-attachments/assets/ca79df06-9820-49e9-aac3-68a24ad4cb25)#
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
