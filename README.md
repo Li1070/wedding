@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
  
 
-  <title>  <img src="top.jpg" alt="Свадебное фото" style="width: 100%; height: auto;">Свадьба Елизаветы и Вадима</title>
+  <title>  <img src="top.jpg" alt="top.jpg.jpg" style="width: 100%; height: auto;">Свадьба Елизаветы и Вадима</title>
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
