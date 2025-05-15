@@ -1,6 +1,5 @@
 # НАША СВАДЬБА
 Пригласительные
-<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
@@ -99,7 +98,6 @@
   <section class="map">
     <h2>Место</h2>
     <p>Алма-Ата, озеро Большое Алматинское</p>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!..." allowfullscreen></iframe>
   </section>
 
   <section>
